@@ -1,0 +1,27 @@
+{
+  "name": "prueba_grunt",
+  "title": "P_Grunt",
+  "description": "prueba grunt",
+  "version": "0.2.0",
+  "homepage": "index.php",
+  "author": {
+    "name": "@argkont",
+    "email": "mauro@bowl.cl",
+    "url": "www.bowl.cl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bowl13/grunt.git"
+  },
+  "bugs": "https://github.com/bowl13/grunt/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "index.php/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
